@@ -2,6 +2,7 @@
 using namespace std;
 int main() {
     int data[10];
+	// declaring the variables
     int dataatrec[10],c,c1,c2,c3,i;
  
     cout<<"Enter 4 bits of data: "<<endl;
